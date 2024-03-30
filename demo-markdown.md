@@ -12,3 +12,5 @@ Por ejemplo, si quisiéramos hacer un índice en markdown sería de la siguiente
 * Índice
   - Añadimos un índice dentro de otro índice
     * Añadimos otro más
+
+**Así ponemos un texto en negrita,** _así lo ponemos en cursiva_ ***y así nuestro texto aparecerá tanto en cursiva como en negrita***
