@@ -33,4 +33,4 @@ for(int i=0; i<10;i++{
 
 > Así insertamos un enlace al archivo Markdown
 
-![Logo de Markdown](https://static-00.iconduck.com/assets.00/markdown-icon-1024x1024-0q72det7.png "Logo de Markdown")
+![Logo de Markdown]([https://static-00.iconduck.com/assets.00/markdown-icon-1024x1024-0q72det7.png](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/markdown-icon.png) "Logo de Markdown")
