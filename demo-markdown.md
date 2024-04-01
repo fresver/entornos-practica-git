@@ -32,3 +32,5 @@ for(int i=0; i<10;i++{
 [https://github.com/fresver/entornos-practica-git "Mi repositorio"]
 
 > Así insertamos un enlace al archivo Markdown
+
+![Logo de Markdown](https://static-00.iconduck.com/assets.00/markdown-icon-1024x1024-0q72det7.png "Logo de Markdown")
