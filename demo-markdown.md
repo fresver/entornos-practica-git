@@ -21,10 +21,14 @@ Otra funacionalidad que tiene este lenguaje es añadir bloques de código, como 
 
 `System.out.println("Hola mundo");`
 
-~~~
+~~~java 
 for(int i=0; i<10;i++{
   System.out.println("Hola mundo");
 }
 ~~~
 
 > Dos maneras diferentes de hacerlo
+
+[https://github.com/fresver/entornos-practica-git "Mi repositorio"]
+
+> Así insertamos un enlace al archivo Markdown
