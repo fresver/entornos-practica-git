@@ -1,7 +1,7 @@
 # Presentación de Markdown
 ## Fabio Reséndiz Vergara 
 
-Estoy escfibiendo esto en un párrafo de Markdown, para explicar que esta es una presentación en la que voy a desarrollar lo aprendido con Markdown.
+Estoy escribiendo esto en un párrafo de Markdown, para explicar que esta es una presentación en la que voy a desarrollar lo aprendido con Markdown.
 
 Markdown es un lenguaje de marcado con etiquetas parecido a HTML, que se usa para diferentes fines como hacer presentaciones, documentos informativos o páginas web de manera sencilla ya que es fácil de usar.
 
