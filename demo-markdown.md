@@ -33,4 +33,8 @@ for(int i=0; i<10;i++{
 
 > Así insertamos un enlace al archivo Markdown
 
-![Logo de Markdown](https://cdn.icon-icons.com/icons2/3007/PNG/512/github_logo_icon_188438.png "Logo de Markdown")
+![Logo de GitHub](https://cdn.icon-icons.com/icons2/3007/PNG/512/github_logo_icon_188438.png "Logo de GitHub")
+
+> Imagen insertada con una etiqueta de imágenes de Markdown
+
+En definitiva, Markdown es un lenguaje útil para documentación informativa entre otras cosas o una alternativa a lenguajes como HTML.
